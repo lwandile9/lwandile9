@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lwandile9
+- 👋 Hi, I’m @lwandile Toto
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking for internship and junior software developer jobs 
 - 📫 How to reach me facebook "lwandile toto" 
 - whatsapp = 0621910640
 
